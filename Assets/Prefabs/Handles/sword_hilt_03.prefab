@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3962362350623163013
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5992919391669450839}
+  m_Layer: 0
+  m_Name: SnapPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5992919391669450839
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3962362350623163013}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0.083, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 117244575905618370}
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1001 &444220493483965993
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      propertyPath: m_Name
+      value: sword_hilt_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      propertyPath: m_TagString
+      value: Handle
+      objectReference: {fileID: 0}
+    - target: {fileID: 2653663867538385878, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a092e4b28ca2f7e4b82e51504995fa8c, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 3910035518496058368, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      insertIndex: 0
+      addedObject: {fileID: 5992919391669450839}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -625051978732578170}
+  m_SourcePrefab: {fileID: 100100000, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+--- !u!4 &117244575905618370 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+  m_PrefabInstance: {fileID: 444220493483965993}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &786821509644698488 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 29e72cd8ea23b78478f2cab22325c08a, type: 3}
+  m_PrefabInstance: {fileID: 444220493483965993}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-625051978732578170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 786821509644698488}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba7c559d60bd8bb4e8c2fc380f9119b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentIndex: 0
+  snapPointIndex: 0
+  partMinRange: 3
+  partMaxRange: 5
+  SnapPointList: []
+  soWeaponParts:
+  - {fileID: 11400000, guid: 840d4ffc24e8a6f45b1a16490ee0d9b0, type: 2}
+  - {fileID: 11400000, guid: 3d02603fd9ad0d646badda97e0063e4a, type: 2}
+  - {fileID: 11400000, guid: e0483f84cce45d348ad04c97bfdf6de8, type: 2}
+  weaponParts: []

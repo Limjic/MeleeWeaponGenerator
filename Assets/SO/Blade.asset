@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5f41842f57c4a94bb6a7660f09f3e98, type: 3}
+  m_Name: Blade
+  m_EditorClassIdentifier: 
+  categoryName: Blade
+  weaponPartArray:
+  - {fileID: 6361355111496015637, guid: fbcaf1bd5802cff4e9c220b560c07a45, type: 3}
+  - {fileID: 1308558942219661821, guid: 752a39783a60e7d4ab1b845a324c9e54, type: 3}
+  - {fileID: 668508129651460362, guid: 69ea68e5ff2d63e47a610787a7e0978d, type: 3}
+  - {fileID: 5643984345991481454, guid: 5b63e70ed3587884cb61e21c6d08737c, type: 3}
+  - {fileID: 4078246680602301776, guid: 40df24f8444ae3446b20551ff4cd6f46, type: 3}
+  - {fileID: 7610927484467441693, guid: 0126edd4996f67846a19ab71d4a45987, type: 3}
+  - {fileID: 5716460520019200660, guid: 9a209e7ead07976498f90b6ec70637d0, type: 3}
+  - {fileID: 3043176042028552171, guid: 2ec9c46d898738a439e92ec28e4d3406, type: 3}

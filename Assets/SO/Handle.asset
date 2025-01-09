@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5f41842f57c4a94bb6a7660f09f3e98, type: 3}
+  m_Name: Handle
+  m_EditorClassIdentifier: 
+  categoryName: Handle
+  weaponPartArray:
+  - {fileID: 8360504145965662750, guid: 808496d5c47dd3d4a9d125ebea695d36, type: 3}
+  - {fileID: 4094437518446729086, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
+  - {fileID: 786821509644698488, guid: d5b66fcc1fdd2904f8387180c0faeec2, type: 3}
+  - {fileID: 6565094606131477938, guid: 9123310ea31f7024fa7cc0a7bdf6d56b, type: 3}
+  - {fileID: 8677140591206156932, guid: 5860dd0ca7a67064cb3b3f17cf769266, type: 3}
+  - {fileID: 6574435822810041575, guid: 45bf2064aea07844bbb620a30ea55947, type: 3}
+  - {fileID: 5221850860703016199, guid: 03061909005b3be4da962ac691f7c230, type: 3}
+  - {fileID: 6955207737821631780, guid: bf062e2b13af30340b118b1aaf08cde4, type: 3}
+  - {fileID: 233772945289078878, guid: 9d0bfc1af1c87dc4c9ba92eaa78f9379, type: 3}
+  - {fileID: 8109807773617101718, guid: 458502cad29060c4382c4afafbe8c2fa, type: 3}
+  - {fileID: 5252717678989552679, guid: a29fb9e8e83254147aa9b0063ca747af, type: 3}

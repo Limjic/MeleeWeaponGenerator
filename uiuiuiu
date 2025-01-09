@@ -1,0 +1,379 @@
+{
+  "weaponName": "uiuiuiu",
+  "weaponParts": [
+    {
+      "categoryIndex": 0,
+      "partIndex": 0,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": -1,
+      "snapPointIndex": -1
+    },
+    {
+      "categoryIndex": 2,
+      "partIndex": 2,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 0,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 1,
+      "partIndex": 0,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 1,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 1,
+      "partIndex": 8,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 2,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 3,
+      "partIndex": 6,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 3,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 2,
+      "partIndex": 0,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 0,
+      "snapPointIndex": 1
+    },
+    {
+      "categoryIndex": 2,
+      "partIndex": 1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 5,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 1,
+      "partIndex": 2,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 6,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 1,
+      "partIndex": 6,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 7,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 2,
+      "partIndex": 1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 8,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 3,
+      "partIndex": 3,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 9,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 1,
+      "partIndex": 4,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 0,
+      "snapPointIndex": 2
+    },
+    {
+      "categoryIndex": 2,
+      "partIndex": 2,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 11,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 2,
+      "partIndex": 2,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 12,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 2,
+      "partIndex": 1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 13,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 3,
+      "partIndex": 0,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 14,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 2,
+      "partIndex": 1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 0,
+      "snapPointIndex": 3
+    },
+    {
+      "categoryIndex": 2,
+      "partIndex": 2,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 16,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 1,
+      "partIndex": 1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 17,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 2,
+      "partIndex": 1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 18,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 2,
+      "partIndex": 0,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 19,
+      "snapPointIndex": 0
+    },
+    {
+      "categoryIndex": 3,
+      "partIndex": 4,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": 20,
+      "snapPointIndex": 0
+    }
+  ]
+}

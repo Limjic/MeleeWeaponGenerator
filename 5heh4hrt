@@ -1,0 +1,22 @@
+{
+  "weaponName": "5heh4hrt",
+  "weaponParts": [
+    {
+      "categoryIndex": 0,
+      "partIndex": 2,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "parentIndex": -1,
+      "snapPointIndex": -1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5f41842f57c4a94bb6a7660f09f3e98, type: 3}
+  m_Name: Guard
+  m_EditorClassIdentifier: 
+  categoryName: Guard
+  weaponPartArray:
+  - {fileID: 8863032267756828011, guid: 5b8d5cc0e14afd74e841a9e3249a2873, type: 3}
+  - {fileID: 7779238831105045311, guid: 0be4e5c4d1210694fa7b6285b5fac04c, type: 3}
+  - {fileID: 6816940596688180929, guid: 629580bb11fe460468983824a135ce02, type: 3}
+  - {fileID: 4270278375482915445, guid: b8069981b56e94341b70c66748ea646d, type: 3}
+  - {fileID: 3466191757235326741, guid: da43a708ccfd09c42b48992a2cc8e554, type: 3}
+  - {fileID: 5922277725487580961, guid: 49afc6dd31e08764a8c2cd1331a43b3e, type: 3}
+  - {fileID: 5674833446438044995, guid: e2ec977bf1a899c4fb306d6f6d39b2c0, type: 3}
+  - {fileID: 7053320405515847458, guid: 16df32f24657d4449b8d609c244e141c, type: 3}
+  - {fileID: 6374250260276931206, guid: 6923d35761346104a9f7765d463e9bb0, type: 3}
+  - {fileID: 3933001617308928840, guid: e812acfbde9435348acdcaaf4b72c11e, type: 3}
+  - {fileID: 417541852481700338, guid: 35c818d8d3b8e294b92635507586d2a0, type: 3}
