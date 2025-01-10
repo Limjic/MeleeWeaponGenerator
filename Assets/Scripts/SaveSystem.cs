@@ -50,9 +50,7 @@ public class SaveSystem : MonoBehaviour
             _weaponToConvert.GetCategoryIndex(),
             _weaponToConvert.GetPartType(),
             _weaponToConvert.transform.position,
-            _weaponToConvert.transform.rotation,
-            -1,
-            -1
+            _weaponToConvert.transform.rotation
             );
 
         for (int i = 0; i < _weaponToConvert.weaponParts.Count; i++)
@@ -66,9 +64,7 @@ public class SaveSystem : MonoBehaviour
 
     public WeaponPart LoadWeapon(string _weaponName, WeaponPart parentWeaponPart)
     {
-        // Initialize the save path
-        _weaponName += ".json";
-        saveDestination = Path.Combine(Application.persistentDataPath, _weaponName);
+        Initialize(_weaponName);
 
         // Check if the file exists
         if (!File.Exists(saveDestination))

@@ -4,7 +4,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using static SaveSystem;
 
-public class WeaponPart : MonoBehaviour
+public abstract class WeaponPart : MonoBehaviour
 {
 
     public int parentIndex;
@@ -231,10 +231,5 @@ public class WeaponPart : MonoBehaviour
 
 
     // Will look for the next WeaponPart in the hierarchy
-    public virtual WeaponPart GetFirstWeaponPartParent()
-    {
-        return null;
-    }
-
-
+    public abstract WeaponPart GetFirstWeaponPartParent();
 }

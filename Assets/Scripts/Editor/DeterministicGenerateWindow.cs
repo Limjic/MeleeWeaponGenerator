@@ -19,7 +19,7 @@ public class DeterministicGenerateWindow : EditorWindow
     {
         DeterministicGenerateWindow window = GetWindow<DeterministicGenerateWindow>("Deterministic Generate");
         window.weapon = weaponPart;
-        window.saveSystem = Object.FindObjectOfType<SaveSystem>();
+        window.saveSystem = Object.FindFirstObjectByType<SaveSystem>();
         window.Show();
     }
 

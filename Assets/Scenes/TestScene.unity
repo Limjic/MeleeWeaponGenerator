@@ -376,6 +376,63 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 1
+--- !u!1001 &571242282
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4094437518446729086, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
+      propertyPath: m_Name
+      value: sword_hilt_02 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -459,26 +516,12 @@ MonoBehaviour:
     - weaponParts:
       - weaponParts:
         - weaponParts:
-          - weaponParts:
-            - weaponParts: []
-              categoryIndex: 3
-              partIndex: 1
-              position:
-                x: 0
-                y: 0.20920001
-                z: 0
-              rotation:
-                x: -0
-                y: 0.7071068
-                z: -0
-                w: 0.7071068
-              parentIndex: -1
-              snapPointIndex: -1
-            categoryIndex: 2
-            partIndex: 1
+          - weaponParts: []
+            categoryIndex: 3
+            partIndex: 3
             position:
               x: 0
-              y: 0.24820001
+              y: 0.25169998
               z: 0
             rotation:
               x: -0
@@ -491,7 +534,7 @@ MonoBehaviour:
           partIndex: 2
           position:
             x: 0
-            y: 0.20830001
+            y: 0.21180001
             z: 0
           rotation:
             x: -0
@@ -501,10 +544,10 @@ MonoBehaviour:
           parentIndex: -1
           snapPointIndex: -1
         categoryIndex: 2
-        partIndex: 3
+        partIndex: 0
         position:
           x: 0
-          y: 0.1359
+          y: 0.1509
           z: 0
         rotation:
           x: -0
@@ -513,11 +556,11 @@ MonoBehaviour:
           w: 0.7071068
         parentIndex: -1
         snapPointIndex: -1
-      categoryIndex: 2
-      partIndex: 0
+      categoryIndex: 1
+      partIndex: 2
       position:
         x: 0
-        y: 0.075
+        y: 0.0835
         z: 0
       rotation:
         x: -0
@@ -526,92 +569,8 @@ MonoBehaviour:
         w: 0.7071068
       parentIndex: -1
       snapPointIndex: -1
-    - weaponParts:
-      - weaponParts:
-        - weaponParts:
-          - weaponParts:
-            - weaponParts:
-              - weaponParts: []
-                categoryIndex: 3
-                partIndex: 5
-                position:
-                  x: 0.0012
-                  y: -0.42960006
-                  z: -0.0010267909
-                rotation:
-                  x: -0.7071068
-                  y: -0
-                  z: 0.7071068
-                  w: 0
-                parentIndex: -1
-                snapPointIndex: -1
-              categoryIndex: 2
-              partIndex: 3
-              position:
-                x: 0.0012
-                y: -0.35720006
-                z: -0.0010267909
-              rotation:
-                x: -0.7071068
-                y: -0
-                z: 0.7071068
-                w: 0
-              parentIndex: -1
-              snapPointIndex: -1
-            categoryIndex: 1
-            partIndex: 9
-            position:
-              x: 0.0012
-              y: -0.30570003
-              z: -0.0010267909
-            rotation:
-              x: -0.7071068
-              y: -0
-              z: 0.7071068
-              w: 0
-            parentIndex: -1
-            snapPointIndex: -1
-          categoryIndex: 1
-          partIndex: 10
-          position:
-            x: 0.0012
-            y: -0.24370003
-            z: -0.0010267909
-          rotation:
-            x: -0.7071068
-            y: -0
-            z: 0.7071068
-            w: 0
-          parentIndex: -1
-          snapPointIndex: -1
-        categoryIndex: 2
-        partIndex: 0
-        position:
-          x: 0.0012
-          y: -0.1828
-          z: -0.0010267909
-        rotation:
-          x: -0.7071068
-          y: -0
-          z: 0.7071068
-          w: 0
-        parentIndex: -1
-        snapPointIndex: -1
-      categoryIndex: 1
-      partIndex: 0
-      position:
-        x: 0
-        y: -0.137
-        z: 0
-      rotation:
-        x: -0.7071068
-        y: -0
-        z: 0.7071068
-        w: 0
-      parentIndex: -1
-      snapPointIndex: -1
     categoryIndex: 0
-    partIndex: 0
+    partIndex: 1
     position:
       x: 0
       y: 0
@@ -643,63 +602,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1316485279
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3718158643975998916, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4094437518446729086, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
-      propertyPath: m_Name
-      value: sword_hilt_02
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 1d7d80726feab6e4092bcfbea0107057, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -708,4 +610,4 @@ SceneRoots:
   - {fileID: 410087041}
   - {fileID: 832575519}
   - {fileID: 995511468}
-  - {fileID: 1316485279}
+  - {fileID: 571242282}
